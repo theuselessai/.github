@@ -14,15 +14,6 @@ In the age of AI, we explore the space between utility and futility — building
 
 We experiment with LLM-powered tools, visual automation, and the strange new possibilities that emerge when you give language models hands to work with. Some projects solve real problems. Others exist because they *can* exist.
 
-## Projects
-
-| Project | Description |
-|---------|-------------|
-| [Pipelit](https://github.com/theuselessai/Pipelit) | Visual workflow automation for LLM agents — drag-and-drop canvas, multi-trigger, real-time execution |
-| [skills](https://github.com/theuselessai/skills) | Community skills registry for Pipelit and Claude Code |
-| [agent-browser-musl](https://github.com/theuselessai/agent-browser-musl) | Musl builds of agent-browser for Alpine |
-| [traffic_simulator](https://github.com/theuselessai/traffic_simulator) | Traffic that flows on your desktop |
-
 ---
 
 Self-hosted. Open source. Occasionally useful.
