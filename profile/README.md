@@ -1,11 +1,26 @@
 # TheUselessAI
 
-Building self-hosted tools for LLM-powered automation.
+> 人皆知有用之用，而莫知无用之用也。
+> 
+> Everyone knows the usefulness of the useful, but no one knows the usefulness of the useless.
+> 
+> — 庄子《人间世》
+
+In the age of AI, we explore the space between utility and futility — building things that might be useful, might be useless, or might be something else entirely.
+
+## What We Do
+
+We experiment with LLM-powered tools, visual automation, and the strange new possibilities that emerge when you give language models hands to work with. Some projects solve real problems. Others exist because they *can* exist.
 
 ## Projects
 
 | Project | Description |
 |---------|-------------|
-| [Pipelit](https://github.com/theuselessai/Pipelit) | Visual workflow automation platform for building LLM agent pipelines — drag-and-drop canvas, multi-trigger support, real-time execution |
-| [agent-browser-musl](https://github.com/theuselessai/agent-browser-musl) | Musl/Alpine builds of agent-browser for x86_64 and arm64 |
-| [useless-skills](https://github.com/theuselessai/useless-skills) | Community skills for Pipelit — Claude Code workflows, dev automation, meeting capture |
+| [Pipelit](https://github.com/theuselessai/Pipelit) | Visual workflow automation for LLM agents — drag-and-drop canvas, multi-trigger, real-time execution |
+| [skills](https://github.com/theuselessai/skills) | Community skills registry for Pipelit and Claude Code |
+| [agent-browser-musl](https://github.com/theuselessai/agent-browser-musl) | Musl builds of agent-browser for Alpine |
+| [traffic_simulator](https://github.com/theuselessai/traffic_simulator) | Traffic that flows on your desktop |
+
+---
+
+Self-hosted. Open source. Occasionally useful.
