@@ -4,7 +4,7 @@
 > 
 > Everyone knows the usefulness of the useful, but no one knows the usefulness of the useless.
 > 
-> — 庄子《人间世》
+> — Zhuangzi (庄子)
 
 In the age of AI, we explore the space between utility and futility — building things that might be useful, might be useless, or might be something else entirely.
 
